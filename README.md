@@ -1,13 +1,18 @@
-A web-based or desktop application that helps users manage their personal finances by tracking income and expenses, automatically categorizing transactions, visualizing spending patterns, and setting monthly budgets. The application provides actionable insights through interactive dashboards and reports, enabling users to make better financial decisions.
+# Finwise – Personal Finance Manager
 
-Key Features
-💰 Income and expense tracking
-🏷️ Automatic transaction categorization
-📊 Interactive spending analytics and charts
-🎯 Monthly budget creation and monitoring
-🔔 Budget overspending alerts
-📅 Daily, weekly, and monthly reports
-📂 CSV/Excel bank statement import
-🔍 Transaction search and filtering
-🌙 Dark mode support
-🔐 Secure user authentication
+Finwise is a web and desktop application that helps you take control of your personal finances. It simplifies tracking income and expenses, automatically categorizes transactions, visualizes spending patterns, and helps you set and monitor monthly budgets—so you can make smarter financial decisions.
+
+## ✨ Features
+
+| Category | Features |
+|----------|----------|
+| 💰 Transaction Tracking | Manual & automatic income/expense logging |
+| 🏷️ Smart Categorization | Auto-categorization with learning rules |
+| 📊 Analytics | Interactive charts, spending breakdowns, trends |
+| 🎯 Budgeting | Monthly budget creation & real-time monitoring |
+| 🔔 Alerts | Notifications when you near or exceed budget limits |
+| 📅 Reports | Daily, weekly, and monthly financial summaries |
+| 📂 Import | CSV/Excel bank statement import with auto-parsing |
+| 🔍 Search & Filter | Find transactions by keyword, date, category, or amount |
+| 🌙 Dark Mode | Comfortable viewing day or night |
+| 🔐 Security | Secure user authentication + optional 2FA |
