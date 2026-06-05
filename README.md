@@ -16,22 +16,7 @@ Finwise is a Python-powered web and desktop application that helps you take cont
 | 🔍 Search & Filter | Find transactions by keyword, date, category, or amount |
 | 🌙 Dark Mode | Comfortable viewing day or night |
 | 🔐 Security | Secure user authentication (Django Auth / Flask-Login) + password hashing |
-
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-------------|
-| Backend | Python 3.10+ with Django / Flask / FastAPI |
-| Database | SQLite (dev) / PostgreSQL (prod) |
-| Data Processing | Pandas, NumPy |
-| Visualization | Plotly / Matplotlib / Altair |
-| Auto-Categorization | Scikit-learn / Rule-based engine |
-| Web Frontend | HTML + Tailwind CSS + HTMX / Vue.js |
-| Desktop UI | Tkinter / Flet / PyQt6 |
-| Desktop Packaging | PyInstaller / Briefcase |
-| Auth | Django Auth / Flask-Login + JWT + bcrypt |
-| Reporting | ReportLab / OpenPyXL (Excel export) |
+|
 
 ## 📦 Installation
 
